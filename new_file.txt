@@ -1,2 +1,3 @@
  some text
  New feature added
+feature 2
